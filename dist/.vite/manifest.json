@@ -1,8 +1,8 @@
 {
-  "client-entry.js": {
+  "client-entry.ts": {
     "file": "assets/client-entry-BTtEggNo.js",
     "name": "client-entry",
-    "src": "client-entry.js",
+    "src": "client-entry.ts",
     "isEntry": true
   }
 }
