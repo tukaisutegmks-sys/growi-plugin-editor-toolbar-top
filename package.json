@@ -1,6 +1,6 @@
 {
   "name": "growi-plugin-editor-toolbar-top",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Move the GROWI built-in editor toolbar to the top of the editor.",
   "license": "MIT",
   "type": "module",
