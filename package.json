@@ -1,0 +1,23 @@
+{
+  "name": "growi-plugin-editor-toolbar-top",
+  "version": "0.1.0",
+  "description": "Move the GROWI built-in editor toolbar to the top of the editor without changing GROWI core files.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "growi",
+    "growi-plugin"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  },
+  "growiPlugin": {
+    "schemaVersion": "4",
+    "types": [
+      "script"
+    ]
+  }
+}
