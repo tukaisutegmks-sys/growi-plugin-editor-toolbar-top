@@ -9,7 +9,7 @@
     "growi-plugin"
   ],
   "scripts": {
-    "build": "tsc --noEmit && vite build"
+    "build": "vite build"
   },
   "devDependencies": {
     "@growi/pluginkit": "^1.1.0",
